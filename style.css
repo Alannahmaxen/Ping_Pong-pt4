@@ -1,0 +1,21 @@
+canvas{
+    border: 2px solid white;
+    border-radius: 30px;
+}
+#redo{
+    color:white;
+    background-color: rgb(90, 10, 114);
+    border-color: white;
+}
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width:100%;
+    background-color:purple;
+    line-height: 3;
+    text-align:center;
+   }
+h4{
+    text-align:center
+}
